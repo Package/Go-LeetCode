@@ -1,4 +1,4 @@
 
-# Project Euler in Go
+# Leet Code in Go
 
-My solutions to [Project Euler](https://projecteuler.net/archives) programming challenges implemented in the Go programming language.
+My solutions to [Leet Code](https://leetcode.com/problemset/all/) programming challenges implemented in the Go programming language.
