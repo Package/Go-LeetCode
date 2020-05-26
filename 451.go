@@ -63,5 +63,4 @@ func main() {
 	fmt.Println(frequencySort("tree"))
 	fmt.Println(frequencySort("cccaaa"))
 	fmt.Println(frequencySort("Aabb"))
-	fmt.Println(frequencySort("A"))
 }
